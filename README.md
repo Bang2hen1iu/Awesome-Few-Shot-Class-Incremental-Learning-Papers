@@ -1,13 +1,13 @@
 # Awesome-Few-Shot-Class-Incremental-Learning-Papers
 ![Awesome](https://awesome.re/badge.svg) ![Stars](https://img.shields.io/github/stars/Bang2hen1iu/Awesome-Few-Shot-Class-Incremental-Learning-Papers)
-This repository compiles a list of papers related to few-shot class-incremental learning (FSCIL). The style of this repository is bollow from [yyyujintang](https://github.com/yyyujintang/Awesome-Mamba-Papers)
+This repository compiles a list of papers related to few-shot class-incremental learning (FSCIL). The style of this repository is bollow from [yyyujintang](https://github.com/yyyujintang/Awesome-Mamba-Papers).
 
 Continual improvements are being made to this repository. If you come across any relevant papers that should be included, please don't hesitate to open an issue or email me with liubz.scut@gmail.com.
 
 
 ## News
 
-- Last update on 2024.11.06
+- Last update on 2024.11.06.
 
 ## Datasets
 
@@ -39,6 +39,8 @@ CUB-200
 
 ## Classification & Recognition
 
+### 2024
+
 (arxiv 2024.01.26) PL-FSCIL: Harnessing the Power of Prompts for Few-Shot Class-Incremental Learning [paper](https://arxiv.org/abs/2401.14807) [code](https://github.com/TianSongS/PL-FSCIL)
 
 (arxiv 2024.01.14) Enhanced Few-Shot Class-Incremental Learning via Ensemble Models [paper](https://arxiv.org/abs/2401.07208)
@@ -58,6 +60,8 @@ CUB-200
 (WACV2024) Expanding Hyperspherical Space for Few-Shot Class-Incremental Learning [paper](https://openaccess.thecvf.com/content/WACV2024/papers/Deng_Expanding_Hyperspherical_Space_for_Few-Shot_Class-Incremental_Learning_WACV_2024_paper.pdf)
 
 (AAAI2024) M2SD:Multiple Mixing Self-Distillation for Few-Shot Class-Incremental Learning [paper](https://ojs.aaai.org/index.php/AAAI/article/view/28129)
+
+### 2023
 
 (CoLLAs2023) Active Class Selection for Few-Shot Class-Incremental Learning [paper](https://arxiv.org/abs/2307.02641)
 
@@ -91,6 +95,8 @@ CUB-200
 
 (TNNLS2023) Uncertainty-Aware Distillation for Semi-Supervised Few-Shot Class-Incremental Learning [paper](https://arxiv.org/pdf/2301.09964) [code](https://github.com/yawencui/UaD-ClE)
 
+### 2022
+
 (NeuIPS2022) Margin-based few-shot class-incremental learning with class-level overfitting mitigation [paper](https://openreview.net/pdf?id=hyc27bDixNR)
 
 (ACMMM2022) Semantics-driven generative replay for few-shot class incremental learning [paper](https://dl.acm.org/doi/pdf/10.1145/3503161.3548160) 
@@ -119,6 +125,8 @@ CUB-200
 
 (TMM2022) Uncertainty-guided semi-supervised few-shot class-incremental learning with knowledge distillation [paper](https://ieeexplore.ieee.org/abstract/document/9899753)
 
+### 2021
+
 (NeuIPS2021) Overcoming catastrophic forgetting in incremental few-shot learning by finding flat minima [paper](https://proceedings.neurips.cc/paper_files/paper/2021/file/357cfba15668cc2e1e73111e09d54383-Paper.pdf) [code](https://github.com/moukamisama/F2M)
 
 (ICCV2021) Synthesized feature based few-shot class-incremental learning on a mixture of subspaces [paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Cheraghian_Synthesized_Feature_Based_Few-Shot_Class-Incremental_Learning_on_a_Mixture_of_ICCV_2021_paper.pdf) [code](https://github.com/ali-chr/Synthesized-Feature-based-Few-Shot-Class-Incremental-Learningon-a-Mixture-of-Subspaces)~(Empty yet.)
@@ -140,6 +148,8 @@ CUB-200
 (AAAI2021) Few-Shot Lifelong Learning [paper](https://arxiv.org/pdf/2103.00991) [code](https://github.com/pratikm141/FSLL) 
 
 (TPAMI2021) Mgsvf: Multi-grained slow versus fast framework for few-shot class-incremental learning [paper](https://ieeexplore.ieee.org/abstract/document/9645290)
+
+### 2020 & before
 
 (IROS2020) Tell me what this is: Few-Shot Incremental Object Learning by a Robot [paper](https://ieeexplore.ieee.org/abstract/document/9341140)
 

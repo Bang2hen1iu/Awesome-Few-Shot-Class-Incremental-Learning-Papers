@@ -1,6 +1,6 @@
 # Awesome-Few-Shot-Class-Incremental-Learning-Papers
 ![Awesome](https://awesome.re/badge.svg) ![Stars](https://img.shields.io/github/stars/Bang2hen1iu/Awesome-Few-Shot-Class-Incremental-Learning-Papers)
-This repository compiles a list of papers related to few-shot class-incremental learning (FSCIL).
+This repository compiles a list of papers related to few-shot class-incremental learning (FSCIL). The style of this repository is bollow from [yyyujintang](https://github.com/yyyujintang/Awesome-Mamba-Papers)
 
 Continual improvements are being made to this repository. If you come across any relevant papers that should be included, please don't hesitate to open an issue or email me with liubz.scut@gmail.com.
 
